@@ -1,0 +1,175 @@
+* {
+	box-sizing: border-box;
+	padding: 0px;
+	margin: 0px;
+	font-family: sans-serif;
+}
+
+html{
+	min-height: 100%;
+	position: relative;
+}
+
+.header {
+	background-color: #0226FD;
+	width: 100%;
+	height: 350px;
+	padding-top: 5em;
+	text-align: center;
+}
+
+h1{
+	color: white;
+	padding-top: 1em;
+
+}
+
+.option{
+	background-color: #3552FD; 
+	height: 50px;
+	text-align: left;
+	word-spacing: 1em;
+	margin-top: 80px;
+	padding: 1em 0em 0em 2em;
+	position: sticky;
+}
+
+.option a{
+	color: white;
+	text-decoration: none;
+}
+
+.option a:hover{
+	font-weight: bold;
+}
+
+.container{
+	background-color: white;
+	border-radius: 10px;
+	box-shadow: 1px 1px 1px 1px #B0C4DE;
+	float: left;
+}
+
+.sejarah{
+	margin: 70px 0px 20px 20px;
+	width: 1000px;
+	height: 600px;
+	padding: 0em 2em 1em 2em;
+}
+
+h2{
+	color: #0226FD;
+	padding: 1.5em 0em 1em 0em;
+}
+
+.container img{
+	padding: 0em 0em 1em 0em;
+	height: 245px;
+}
+
+.container p{
+	text-align: justify;
+	color: #808080;
+	padding-bottom: 1em;
+}
+
+.profil{
+	margin-top: 70px;
+	width: 280px;
+	height: 480px;
+	margin-left: 20px;
+	text-align: center;
+	padding: 0em 1em 1em 1em;
+}
+
+.profil h2{
+	text-align: center;
+}
+
+.geografis{
+	margin: 0px 0px 20px 20px;
+	width: 1000px;
+	height: 500px;
+	padding: 0em 2em 1em 2em;
+}
+
+.geografis img{
+	width: 935px;
+}
+
+.font {
+	color: #808080;
+}
+
+.fprofil{
+	font-size: 15px;
+}
+
+.fprofil td{
+	padding-bottom: 6px;
+}
+
+.footer{
+	background-color: #0226FD;
+	width: 100%;
+	height: 100px;
+	margin-top: 90%;
+	color: white;
+	padding-top: 2.5em;
+	text-align: center;
+}
+
+.wisata{
+	margin: 70px 0px 20px 20px;
+	width: 1000px;
+	height: 1100px;
+	padding: 0em 2em 1em 2em;
+}
+
+.contact{
+	margin: 70px 0px 20px 20px;
+	width: 1000px;
+	height: 400px;
+	padding: 1.5em 2em 1em 2em;
+}
+
+h3{
+	color: #0226FD;
+	padding: 1em 0em 1em 0em;
+}
+
+h4{
+	padding-bottom: 1em;
+}
+
+li{
+	list-style: none;
+	color: #808080;
+}
+
+input, select, textarea{
+	margin:0.5em 0em 1em 0em;
+	width: 900px;
+	height: 40px;
+}
+
+textarea{
+	height: 100px;
+}
+
+.submit{
+	background-color: #0226FD;
+	color: white;
+	text-decoration: bold;
+	border-radius: 3px;
+}
+
+.footcontact {
+	background-color: #0226FD;
+	width: 100%;
+	height: 100px;
+	margin-top: 50%;
+	color: white;
+	padding-top: 2.5em;
+	text-align: center;
+}
